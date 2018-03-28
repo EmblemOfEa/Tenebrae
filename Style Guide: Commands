@@ -10,12 +10,13 @@
 /rem
 /clear
 /set
-/join
 /who
 /list
 /on
 /off
-
+/stop
+/start
+/view
 
 ##Action2 Switches
 
