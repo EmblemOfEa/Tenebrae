@@ -9,6 +9,7 @@
 /add
 /rem
 /clear
+/dest
 /set
 /who
 /list
