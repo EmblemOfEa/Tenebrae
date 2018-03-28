@@ -1,0 +1,31 @@
+# Basic Inline Command Syntax
+
+<command>/<action1 switch> <object>[/<action2 switch>]=<input>
+
+
+## Action1 Switches
+
+/edit
+/add
+/rem
+/clear
+/set
+/join
+/who
+/list
+/on
+/off
+
+
+##Action2 Switches
+
+Action2 switches are more contextual to the command.
+
+
+## Examples
+
+Public/who
+Background/edit My Teenage Years=Old Text/New Text
+Background/add My Teenage Years=Text
+Background/list
+Spells/prepare Wizard=Blinking Lights
